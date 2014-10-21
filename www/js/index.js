@@ -16,6 +16,8 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+var smsplugin = cordova.require("info.asankan.phonegap.smsplugin.smsplugin");
+
 var app = {
     // Application Constructor
     initialize: function() {

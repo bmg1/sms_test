@@ -11,4 +11,5 @@ D:\Work\Clients\PhoneGap\sms_test\platforms\android\ant-build\classes\info\asank
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\ant-build\classes\info\asankan\phonegap\smsplugin\SmsPlugin.class \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\ant-build\classes\info\asankan\phonegap\smsplugin\SmsReceiver.class \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\ant-build\classes\info\asankan\phonegap\smsplugin\SmsSender.class \
+D:\Work\Clients\PhoneGap\sms_test\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\ant-build\dexedLibs\classes-56b80ef88cef7623c5b2aaab90910b4b.jar \

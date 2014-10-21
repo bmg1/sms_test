@@ -37,8 +37,9 @@ var app = {
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
         alert('SMS is start');
+        alert('DEVICE: '+device.model);
 
-        smsplugin.isSupported(function(result){alert('SMS is SUPPORT')},function(error){alert("sms NOT SUPPORT");});
+        smsplugin.isSupported(function(result){alert('SMS is SUPPORT')},function(error){alert("sms NOT SUPPORT: "+error);});
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {

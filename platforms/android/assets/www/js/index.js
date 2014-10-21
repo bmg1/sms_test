@@ -16,6 +16,8 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+var smsplugin = cordova.require("info.asankan.phonegap.smsplugin.smsplugin");
+
 var app = {
     // Application Constructor
     initialize: function() {
@@ -36,7 +38,7 @@ var app = {
         app.receivedEvent('deviceready');
         alert('SMS is start');
 
-        smsplugin.isSupported(function(result){alert('SMS is SUPPORT')},function(error){alert("sms NOT SUPPORT");});
+        smsplugin.isSupported(function(result){alert('SMS is SUPPORT')},function(error){alert("sms NOT SUPPORT: "+error);});
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {

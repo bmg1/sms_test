@@ -11,6 +11,10 @@
                         {
                             "xml": "<feature name=\"SmsPlugin\"><param name=\"android-package\" value=\"info.asankan.phonegap.smsplugin.SmsPlugin\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Device\"><param name=\"android-package\" value=\"org.apache.cordova.device.Device\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -33,6 +37,9 @@
     },
     "installed_plugins": {
         "info.asankan.phonegap.smsplugin": {
+            "PACKAGE_NAME": "com.phonegap.helloworld"
+        },
+        "org.apache.cordova.device": {
             "PACKAGE_NAME": "com.phonegap.helloworld"
         }
     },

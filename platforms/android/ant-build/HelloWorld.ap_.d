@@ -31,12 +31,16 @@ D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\img \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\index.html \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\js \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\phonegap.js \
+D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\plugins \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\res \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\spec \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\spec.html \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\css\index.css \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\img\logo.png \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\js\index.js \
+D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\plugins\info.asankan.phonegap.smsplugin \
+D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\plugins\info.asankan.phonegap.smsplugin\www \
+D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\plugins\info.asankan.phonegap.smsplugin\www\smsplugin.js \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\res\icon \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\res\screen \
 D:\Work\Clients\PhoneGap\sms_test\platforms\android\assets\www\res\icon\android \

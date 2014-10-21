@@ -6,12 +6,20 @@ module.exports = [
         "clobbers": [
             "smsplugin"
         ]
+    },
+    {
+        "file": "plugins/org.apache.cordova.device/www/device.js",
+        "id": "org.apache.cordova.device.device",
+        "clobbers": [
+            "device"
+        ]
     }
 ];
 module.exports.metadata = 
 // TOP OF METADATA
 {
-    "info.asankan.phonegap.smsplugin": "0.2.0"
+    "info.asankan.phonegap.smsplugin": "0.2.0",
+    "org.apache.cordova.device": "0.2.12"
 }
 // BOTTOM OF METADATA
 });
